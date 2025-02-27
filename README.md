@@ -1,4 +1,4 @@
-Hey I AM Albert Rueda, but you can call me ALBERT!
+Hey I'M Albert Rueda, but you can call me ALBERT!
 # I'm a Database Administrator in Oracle, MySQL, PostgreSQL & back-front end web developer.
  
 > In this project I used Tools:
@@ -9,4 +9,4 @@ Hey I AM Albert Rueda, but you can call me ALBERT!
 
 * Flex-box
 
-# Come and look my [profile](www.linkedin.com/in/alberto-g-rueda) 
+> Come and look my [profile](www.linkedin.com/in/alberto-g-rueda) 
