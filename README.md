@@ -9,7 +9,7 @@
 
 * Flex-box
 
-> Come and look my [profile] ### Linkedin: (www.linkedin.com/in/alberto-g-rueda)
+> Come and look my [profile](www.linkedin.com/in/alberto-g-rueda) 
 
 
 > Aquí hay una [página con los códigos más frecuentes](https://en.support.wordprss.com/markdown-quick-reference/) Markdown
